@@ -25,6 +25,10 @@
         <br /> <br />
         <button v-on:click="onCloseModalBtnClick">Закрыть</button>
     </div>
+    <br /> <br />
+
+
+
   </div>
 </template>
 
