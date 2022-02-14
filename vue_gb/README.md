@@ -1,5 +1,7 @@
 # vue_gb
 
+Работа на лекции.
+
 ## Project setup
 ```
 npm install
